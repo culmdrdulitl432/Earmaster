@@ -223,4 +223,4 @@ EarMaster is provided as a full free version with all features and updates inclu
 Ready to enhance your musical abilities? **Download EarMaster for free today and start your journey to mastering music!**
 
 ---
-**Last updated:** 2026-10-31 22:07:12 UTC
+**Last updated:** 2026-11-01 01:34:02 UTC
